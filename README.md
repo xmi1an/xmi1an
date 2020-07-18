@@ -2,6 +2,8 @@
 <h3 align="center">A Noob Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanjadav" alt="milanjadav" /> </p>
 
+- 📘 Study **BCA**
+
 - 📝 I regulary write articles on [noobsofbca.blogspot.com](noobsofbca.blogspot.com)
 
 - 💬 Ask me about **Nothing**
