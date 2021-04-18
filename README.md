@@ -1,5 +1,3 @@
-Welcome file
-Welcome file
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Milan Jadav!</h1>
 - 📘 Study **BCA**
 
@@ -15,12 +13,3 @@ I create tech content, mostly about Web Development and JavaScript, **but** I al
 <img src="https://bulma.io/images/bulma-logo.png" alt="JavaScript" width="160" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-plain.svg" alt="TailwindCSS" width="50" height="50"/> 
- 
-Hi there  I am Milan Jadav!
-📘 Study BCA
-I create tech content, mostly about Web Development and JavaScript, but I also talk about other topics than coding.
-
-🧰 Toolbox
-
-HTML CSS JavaScript JavaScript TailwindCSS TailwindCSS
-Markdown 1207 bytes 67 words 16 lines Ln 7, Col 1HTML 137 characters 30 words 4 paragraphs
