@@ -1,11 +1,26 @@
-<h1 align="center">Hi 👋, I'm Milan Jadav</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanjadav" alt="milanjadav" /> </p>
-
+Welcome file
+Welcome file
+### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Milan Jadav!</h1>
 - 📘 Study **BCA**
 
+I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding.
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=milanjadav&show_icons=true" alt="milanjadav" /> </p>
+---
+ 
+🧰 Toolbox
 
-<p align="center">
-<a href="https://instagram.com/mi1anjadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mi1anjadav" height="20" width="20" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://bulma.io/images/bulma-logo.png" alt="JavaScript" width="160" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/php/php-plain.svg" alt="TailwindCSS" width="50" height="50"/> 
+ 
+Hi there  I am Milan Jadav!
+📘 Study BCA
+I create tech content, mostly about Web Development and JavaScript, but I also talk about other topics than coding.
+
+🧰 Toolbox
+
+HTML CSS JavaScript JavaScript TailwindCSS TailwindCSS
+Markdown 1207 bytes 67 words 16 lines Ln 7, Col 1HTML 137 characters 30 words 4 paragraphs
