@@ -1,7 +1,6 @@
 ### <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Milan Jadav!</h1>
 - 📘 Study **BCA**
 
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding.
 
 ---
  
