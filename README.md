@@ -10,20 +10,17 @@
   
 
 - 🌱 I’m currently learning React.  
-  
-
+ 
 - ❓ Ask me about anything related to PHP.  
   
+- 😎 Personal Website [bit.ly/milanjadav](https://bit.ly/milanjadav)
 
-- 📄 Know about my experiences [bit.ly/mi1anresume](http://bit.ly/mi1anresume)  
+- 📄 Know about my experiences [bit.ly/mi1anresume](https://bit.ly/mi1anresume)  
   
-
-- 📝 Blogging Site [bit.ly/mi1anblog](https:bit.ly/mi1anblog)  
+- 📝 Blogging Site [bit.ly/mi1anblog](https://bit.ly/mi1anblog)  
   
-
 - 🎬 Love To Watch Anime.  
-  
-
+ 
 - ⚡ Fun fact: I use tabs over spaces.  
   
 
