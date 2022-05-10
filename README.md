@@ -15,7 +15,7 @@
   
 - 😎 Personal Website [bit.ly/xmi1an-web](https://bit.ly/xmi1an-web)
 
-- 📄 Know about my experiences [bit.ly/xmi1an-cv](https://bit.ly/xmi1an-cv)  
+- 📄 Know about my experiences [bit.ly/xmi1an-resume](https://bit.ly/xmi1an-resume)  
   
 - 📝 Blogging Site [bit.ly/xmi1an-blog](https://bit.ly/xmi1an-blog)  
   
