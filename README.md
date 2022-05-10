@@ -13,11 +13,11 @@
  
 - ❓ Ask me about anything related to PHP.  
   
-- 😎 Personal Website [bit.ly/milanjadav](https://bit.ly/milanjadav)
+- 😎 Personal Website [bit.ly/xmi1an-web](https://bit.ly/xmi1an-web)
 
-- 📄 Know about my experiences [bit.ly/mi1anresume](https://bit.ly/mi1anresume)  
+- 📄 Know about my experiences [bit.ly/xmi1an-cv](https://bit.ly/xmi1an-cv)  
   
-- 📝 Blogging Site [bit.ly/mi1anblog](https://bit.ly/mi1anblog)  
+- 📝 Blogging Site [bit.ly/xmi1an-blog](https://bit.ly/xmi1an-blog)  
   
 - 🎬 Love To Watch Anime.  
  
