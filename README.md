@@ -1,11 +1,11 @@
 
-<h3 align="center">A passionate developer from India</h3>  
+<h3 align="center">A Passionate Developer From Gujarat</h3>  
 
 ###  PROFILE INFO
 
 > As a Bachelor of Computer Application passionate about Programming and Problem-Solving with a good experience in Web development (Frontend, Backend, GitHub, APIs, WordPress and many more ). Looking for opportunities as a Web Developer & Software Developer with an expert Team of developers who help advance my career progression to a senior position in the future.
   
-- 🌱 I’m currently learning **Python**  
+- 🌱 I’m Currently Learning **React**  
   
 - 👨‍💻 All of my projects are available at [bit.ly/milanjadav](bit.ly/milanjadav)  
   
