@@ -1,14 +1,36 @@
-
-<h3 align="center">A Passionate Developer From Gujarat</h3>  
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hello everyone! 👋 </h1> 
   
-
-### As a Bachelor of Computer Application passionate about Programming 😇 and Problem-Solving with a good experience in Web development ( Frontend, Backend, GitHub, APIs, WordPress and many more ). Looking for opportunities as a Web Developer 🌍 & Software Developer with an expert Team of Developers who help advance my career progression to a senior position in the future😄.  
+<p align= "center">
   
+  <p align= "center">     
+    My name is <b>Milan Jadav </b> <br> 
+    I Completed BCA From <b>Grow More Group Of Computer Application</b>
+   <br> Interested in <b>Web Development and Programming</b>💞️
+  <br> Currently Learning <b>Front-End Web Development and React</b>🌱
+  <br> Looking to contribute in <b>Open Source</b>
+  </p>
+  
+####   
+ 
+As a Bachelor of Computer Application passionate about Programming 😇 and Problem-Solving with a good experience in Web development ( Frontend, Backend, GitHub, APIs, WordPress and many more ). Looking for opportunities as a Web Developer 🌍 & Software Developer with an expert Team of Developers who help advance my career progression to a senior position in the future😄.  
+ </p>
 
+<p align= "center">
+  
+- 🌱 I’m currently learning React.  
+ 
+- ❓ Ask me about anything related to PHP.  
+  
+- 😎 Personal Website [bit.ly/xmi1an-web](https://bit.ly/xmi1an-web)
+
+- 📄 Know about my experiences [bit.ly/xmi1an-resume](https://bit.ly/xmi1an-resume)  
+  
+- 📝 Blogging Site [bit.ly/xmi1an-blog](https://bit.ly/xmi1an-blog)  
+  
+- 🎬 Love To Watch Anime.  
+ 
+- ⚡ Fun fact: I use tabs over spaces.  
+ 
 - 🌱 I’m currently learning React.  
  
 - ❓ Ask me about anything related to PHP.  
@@ -23,9 +45,9 @@
  
 - ⚡ Fun fact: I use tabs over spaces.  
   
-
 <br/>  
 
+</p> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
