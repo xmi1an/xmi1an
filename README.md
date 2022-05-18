@@ -19,8 +19,6 @@ As a Bachelor of Computer Application passionate about Programming 😇 and Prob
   
 - 🌱 I’m currently learning React.  
  
-- ❓ Ask me about anything related to PHP.  
-  
 - 😎 Personal Website [bit.ly/xmi1an-web](https://bit.ly/xmi1an-web)
 
 - 📄 Know about my experiences [bit.ly/xmi1an-resume](https://bit.ly/xmi1an-resume)  
