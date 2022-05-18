@@ -27,22 +27,6 @@ As a Bachelor of Computer Application passionate about Programming 😇 and Prob
   
 - 🎬 Love To Watch Anime.  
  
-- ⚡ Fun fact: I use tabs over spaces.  
- 
-- 🌱 I’m currently learning React.  
- 
-- ❓ Ask me about anything related to PHP.  
-  
-- 😎 Personal Website [bit.ly/xmi1an-web](https://bit.ly/xmi1an-web)
-
-- 📄 Know about my experiences [bit.ly/xmi1an-resume](https://bit.ly/xmi1an-resume)  
-  
-- 📝 Blogging Site [bit.ly/xmi1an-blog](https://bit.ly/xmi1an-blog)  
-  
-- 🎬 Love To Watch Anime.  
- 
-- ⚡ Fun fact: I use tabs over spaces.  
-  
 <br/>  
 
 </p> 
