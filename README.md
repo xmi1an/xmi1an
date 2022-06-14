@@ -4,7 +4,7 @@
   
   <p align= "center">     
     My name is <b>Milan Jadav </b> <br> 
-    I Completed BCA From <b>Grow More Group Of Computer Application</b>
+    I Completed BCA.</b>
    <br> Interested in <b>Web Development and Programming</b>💞️
   <br> Currently Learning <b>Front-End Web Development and React</b>🌱
   <br> Looking to contribute in <b>Open Source</b>
