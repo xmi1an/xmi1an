@@ -1,3 +1,10 @@
+<div align="center">
+  <img style="margin-bottom: 50px" src="https://raw.githubusercontent.com/xmi1an/xmi1an/96a02560754594b35862aaafd3d32dd5e5745c3c/shri.svg" alt="shree" height="50" />  
+  
+</div>
+
+<h1 align="center"></h1>
+
 <h1 align="center">Hello everyone! 👋 </h1> 
   
 <p align= "center">
