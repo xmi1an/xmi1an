@@ -17,7 +17,11 @@
   
 ####   
  
-As a Bachelor of Computer Application passionate about Programming 😇 and Problem-Solving with a good experience in Web development ( Frontend, Backend, GitHub, APIs, WordPress and many more ). Looking for opportunities as a Web Developer 🌍 & Software Developer with an expert Team of Developers who help advance my career progression to a senior position in the future😄.  
+As a MSCIT (Master of Science in Computer Information Technology) student, I am deeply passionate about web development and constantly seeking to improve my skills in this field. Throughout my studies, I have gained a solid foundation in computer science, programming, and web development technologies. I have experience in technologies such as HTML, CSS, JavaScript, and frameworks like React and Angular. I am always eager to learn and implement new technologies and methodologies that can help me build better and more efficient web applications.
+
+In addition to my studies, I have also been actively involved in various web development projects, both as an individual and as a team member. These projects have helped me develop my problem-solving skills, ability to work under pressure, and adaptability to new technologies. I am a proactive learner, always looking for opportunities to improve my skills, and take on new challenges.
+
+I am excited to continue my journey in web development and believe that my skills and passion for the field will be an asset to any team. My Github profile will show my coding skills and projects I have worked on, please take a look and let me know your thoughts.
  </p>
 
 <p align= "center">
