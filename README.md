@@ -28,12 +28,8 @@ I am excited to continue my journey in web development and believe that my skill
   
 - 🌱 I’m currently learning React.  
  
-- 😎 Personal Website [miilan.me](https://miilan.me)
+- 😎 Website [miilan.me](https://miilan.me)
 
-- 📄 Know about my experiences [bit.ly/xmi1an-resume](https://bit.ly/xmi1an-resume)  
-  
-- 📝 Blogging Site [bit.ly/xmi1an-blog](https://bit.ly/xmi1an-blog)  
-  
 - 🎬 Love To Watch Anime.  
  
 <br/>  
@@ -42,8 +38,6 @@ I am excited to continue my journey in web development and believe that my skill
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
