@@ -107,7 +107,7 @@ I am excited to continue my journey in web development and believe that my skill
 <a href="https://codepen.com/xmi1an" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/xmi1an" target="_blank">
+<a href="https://www.youtube.com/channel/UCPyORjgBbLYV3mnIZuZfPTQ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/mi1an" target="_blank">
